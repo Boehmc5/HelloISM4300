@@ -10,6 +10,10 @@ namespace HelloISM4300
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey(true);
+            //This is a comment
         }
     }
 }
